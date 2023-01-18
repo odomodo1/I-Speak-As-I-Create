@@ -2,8 +2,8 @@
 
 int main()
 {
-	/* my first program in C */
-	printf("My, Name, Is, ODOMODO!\n");
+	/* What is my name in C */
+	printf(" ODOMODO!\n");
 
 	return 0;
 }
